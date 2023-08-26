@@ -1,4 +1,4 @@
-# ***Deteksi Kerusakan Gearbox dengan Analisis STFT dan Klasifikasi Menggunakan Model Machine Learning***
+# ***Integrasi Analisis STFT dan Ekstraksi Fitur untuk Klasifikasi Kondisi Gearbox Menggunakan Algoritma Machine Learning***
 ---
 # Domain Proyek
 ---
